@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Reactjs Complain registration and management project<br>I'm currently learning NEXTjs and DSA<br>I'm looking collaboration in Chatgpt project<br>You can asked me about web app development , uiux, backend development and python
+I'm currently working on my Reactjs Complain registration and management project<br>I'm currently learning React Native and DSA <br>You can asked me about web app development , uiux, backend development and python
 
 
 ## 🌐 Socials:
