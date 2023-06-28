@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Reactjs audio podcast project<br>I'm currently learning React Native and DSA <br>You can asked me about web app development , uiux, backend development and python
+I'm currently working on my React Native Ecommerce app<br>I'm currently learning React Native and DSA <br>You can asked me about web app development , uiux, backend development and python
 
 
 ## 🌐 Socials:
